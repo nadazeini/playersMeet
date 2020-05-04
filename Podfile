@@ -13,6 +13,7 @@ target 'playersMeetup' do
    pod 'Moya'
    pod 'AlamofireImage'
    pod 'Firebase/Auth'
+   pod "MessageInputBar"
 # add pods for any other desired Firebase products
 # https://firebase.google.com/docs/ios/setup#available-pods
   target 'playersMeetupTests' do
